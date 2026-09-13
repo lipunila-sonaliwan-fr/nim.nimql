@@ -5,7 +5,7 @@
     =    Author: jean-marc "jihem" quere 2026
 ```
 
-[![NimQL](buymeacoffe-fre.png)](https://lipunila.sonaliwan.fr)
+[![NimQL](nimql.png)](https://lipunila.sonaliwan.fr)
 ## NimQL
 > Lab'Oratoire / Project magenta – Laboratory of Cognitive and Social Psycholinguistics
 > https://lipunila.sonaliwan.fr – metalab(at)sonaliwan.fr (french)

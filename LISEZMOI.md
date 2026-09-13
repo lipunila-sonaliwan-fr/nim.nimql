@@ -4,7 +4,8 @@
   ( l )  To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
     =    Author: jean-marc "jihem" quere 2026
 ```
-[![NimQL](buymeacoffe-fre.png)](https://lipunila.sonaliwan.fr)
+
+[![NimQL](nimql.png)](https://lipunila.sonaliwan.fr)
 ## NimQL
 > Lab'Oratoire / Projet magenta - Laboratoire de Psycholinguistique Cognitive et Sociale \
 > https://lipunila.sonaliwan.fr - metalab(at)sonaliwan.fr
