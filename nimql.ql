@@ -7,9 +7,9 @@
 :- consult('std/integer.ql').
 
 # Tests
-#:- writeln("-- Tests --").
-#:- consult('tst/std.ql').
-#:- consult('tst/family.ql').
+:- writeln("-- Tests --").
+:- consult('tst/std.ql').
+:- consult('tst/family.ql').
 
 :- writeln("").
 :- writeln("Type '? query.' to evaluate a query.").

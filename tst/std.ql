@@ -11,7 +11,7 @@
 # std/list.ql
 ?- length([1,2,3,4,5],Lis5).
 ?- last([1,2,3],Lis3).
-?- append([1],2,RisKO).
+?- append([1,2],[3,4],RisKO).
 ?- reverse([1,2,3],[],RisKO).
 :- writeln('-> true').
 ?- member(2, [1,2,3]).
